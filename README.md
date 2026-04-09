@@ -1,2 +1,15 @@
-# radiology-report-template
-CT and MRI structured report templates for clinical use
+# Radiology Report Templates
+
+整理常用 CT / MRI 报告模板，用于日常临床参考。
+
+## 内容包括
+
+- 肺结节报告模板
+- 肝脏病变描述模板
+- 颅脑 MRI 常见异常表达
+- 淋巴结分区描述
+
+## 使用场景
+
+- 临床报告参考
+- 科室规范化表达
